@@ -7,8 +7,9 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static  ExcelToSqlBulkLibrary.ExcelToSqlBulkProcessor;
+
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using static ExcelToSqlBulkLibrary.ExcelToSqlBulkProcessor;
 
 namespace ExcelToSql
 {
